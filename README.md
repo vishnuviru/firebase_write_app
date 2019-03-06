@@ -29,11 +29,11 @@ After sucessful signin it will redirect to /home page
 	Enter Company name and location then click add button
 	(records will be created in firebase database)
 
-	[click to redirect write app] (https://chat-ce3ae.firebaseapp.com)
+	[click to redirect write app](https://chat-ce3ae.firebaseapp.com)
 	
 ## Listen App
 	It will Listen firebase database and update the record in UI without refreshing page
 	you can delete the record also
 	
-	[click to redirect listen app] (https://myshopapp-d92af.firebaseapp.com/)
+	[click to redirect listen app](https://myshopapp-d92af.firebaseapp.com/)
 	
