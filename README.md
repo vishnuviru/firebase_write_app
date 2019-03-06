@@ -24,10 +24,11 @@ example:
 	- password : admin123
 After sucessful signin it will redirect to /home page	
 ```
+[bedrock](https://github.com/mozilla/bedrock/)
 
 ## Writing App
 	Enter Company name and location then click add button
-	(records will be created in firebase database)
+	(records will be created in firebase database)[bedrock](https://github.com/mozilla/bedrock/)
 
 	[click to redirect write app](https://chat-ce3ae.firebaseapp.com)
 	
